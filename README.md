@@ -33,10 +33,5 @@
 <!-- - [Personal Website](#)  --> 
 <!-- - [Email](mailto:your.email@example.com) -->
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nwu698&show_icons=true&theme=radical" alt="nwu698's GitHub stats" />
-</p>
 
 <!-- Optionally, add badges, visitors count, or other sections as you see fit! -->

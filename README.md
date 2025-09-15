@@ -1,16 +1,42 @@
-## Hi there 👋
+<!-- Hi there 👋 -->
 
-<!--
-**nwu698/nwu698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm nwu698!</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em><!-- Add a short tagline or your profession here, e.g.: -->
+  Computer Science and Chemistry @ Yale University
+  </em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 **Education:** B.S. in Computer Science and Chemistry @ Yale University
+- 🌱 **Currently Learning:** ML, Full-stack development, Mobile app development
+<!-- - 📝 **Bio:** -->
+
+---
+
+### 🚀 Top Skills
+
+<!-- List your key skills here. Example: -->
+- Python &nbsp;|&nbsp; C/C++ &nbsp;|&nbsp; React
+<!-- Add more! -->
+
+---
+
+### 📫 Connect with Me
+
+<!-- Add your social links below (remove those you don't use): -->
+- [LinkedIn](#)  https://www.linkedin.com/in/natsumewu/
+<!-- - [Personal Website](#)  --> 
+<!-- - [Email](mailto:your.email@example.com) -->
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nwu698&show_icons=true&theme=radical" alt="nwu698's GitHub stats" />
+</p>
+
+<!-- Optionally, add badges, visitors count, or other sections as you see fit! -->

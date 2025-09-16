@@ -1,6 +1,6 @@
 <!-- Hi there 👋 -->
 
-<h1 align="center">Hi, I'm nwu698!</h1>
+<h1 align="center">Hi, I'm Natsume Wu!</h1>
 
 <p align="center">
   <em><!-- Add a short tagline or your profession here, e.g.: -->
